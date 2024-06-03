@@ -6,7 +6,7 @@ h1{
    
     
 }
-.box1{width: 100px; height: 100px; background: #22cd8e;}
+.box1{width: 100px; height: 100px; background: #22cd8e; flex-grow: 1;}
 .box2{width: 100px; height: 100px; background: #df7913;}
 .box3{width: 100px; height: 100px; background: #1931ad;}
 .box4{width: 100px; height: 100px; background: #b0a114;}
